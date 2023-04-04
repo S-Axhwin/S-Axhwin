@@ -1,4 +1,4 @@
-![logo](https://github.com/S-Axhwin/S-Axhwin/blob/main/cover%20white.png)
+![logo](https://github.com/S-Axhwin/S-Axhwin/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 - 🔭 I’m currently working on **Contact Management**
 
