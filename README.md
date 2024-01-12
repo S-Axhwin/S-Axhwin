@@ -1,3 +1,4 @@
+<img src="https://visitcount.itsvg.in/api?id=S-Axhwin&icon=1&color=1)](https://visitcount.itsvg.in)" align="right">
 # 💫 About Me:
 🔭 I’m currently working on React<br>🌱 I’m currently learning<br>⚡ Fun fact '' I Love Learning New Concepts''
 
@@ -16,6 +17,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=S-Axhwin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=S-Axhwin&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
