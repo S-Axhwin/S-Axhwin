@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="779" alt="Screenshot 2024-12-03 at 12 38 46 PM" src="https://github.com/user-attachments/assets/609fd3e3-6193-451b-b6ee-972c36894001">
+<img width="779" alt="Screenshot 2024-12-03 at 12 39 36 PM" src="https://github.com/user-attachments/assets/543b9f06-4e9d-4434-ab73-95f686eb1401">
 
 Hi My name is Ashwin Sathiya
 
