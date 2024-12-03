@@ -8,11 +8,11 @@ Web and AI Developer
 
 I'm currently coding and shipping projects while upskilling 🚀.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [ashwinsathiya](http://ashwinsathiya.in)
-* ✉️  You can contact me at [spashwin.s.p3@gmail.com](mailto:spashwin.s.p3@gmail.com)
-* 🚀  I'm currently working on [Mobile Fitness App](http://drive.google.com/file/d/1W2F1oVrhKtsXAu_dt05t4rrDOvOA9ln_/view)
-* 🧠  I'm learning TensorFlow and Advanced AI Concepts
+🌍  I'm based in India
+🖥️  See my portfolio at [ashwinsathiya](http://ashwinsathiya.in)
+✉️  You can contact me at [spashwin.s.p3@gmail.com](mailto:spashwin.s.p3@gmail.com)
+🚀  I'm currently working on [Mobile Fitness App](http://drive.google.com/file/d/1W2F1oVrhKtsXAu_dt05t4rrDOvOA9ln_/view)
+🧠  I'm learning TensorFlow and Advanced AI Concepts
 
 ### Skills
 
