@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" />
+  
+<img width="735" alt="Screenshot 2024-12-03 at 12 21 27 PM" src="https://github.com/user-attachments/assets/402536a8-0c99-4ab9-ba83-7013db5dcdcb">
+
 Hi My name is Ashwin Sathiya
-======================================================================================================================================
 
 Web and AI Developer
 -------------------
