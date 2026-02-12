@@ -1,17 +1,64 @@
-<head>
-  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-</head>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwinsathiya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sathiya_ashwin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spashwin.s.p3@gmail.com) 
+# 👋 Hi, I'm Ashwin
+
+Full-stack developer focused on backend systems, SaaS products, and data-heavy applications.
+
+Currently building real-world systems using Go, TypeScript, Postgres, and cloud infra.
 
 ---
-<div class="w[50vw]">
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-</div>
----
 
-![](https://github-readme-stats.vercel.app/api?username=S-Axhwin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=S-Axhwin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Axhwin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwinsathiya)
+[![X](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/sathiya_ashwin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:spashwin.s.p3@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=S-Axhwin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🛠 Tech Stack
+
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Alpine](https://img.shields.io/badge/Alpine.js-white?style=flat&logo=alpinedotjs&logoColor=8BC0D0)
+
+### Backend & DB
+![Express](https://img.shields.io/badge/Express-404d59?style=flat&logo=express)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=flat&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render)
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=S-Axhwin&show_icons=true&theme=dark" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=S-Axhwin&theme=dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Axhwin&layout=compact&theme=dark" />
+
+---
+
+## 🚀 What I’m Working On
+
+- SaaS platforms
+- Backend ingestion pipelines
+- Supabase + Postgres analytics
+- CLI tooling
+- FMCG data systems
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=S-Axhwin&color=0)
