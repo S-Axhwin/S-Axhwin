@@ -34,6 +34,7 @@
 
 ### Backend & DB
 
+<img src="https://img.shields.io/badge/Gorilla%20Mux-00ADD8?logo=go&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Express-404d59?logo=express"/>
 <img src="https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white"/>
