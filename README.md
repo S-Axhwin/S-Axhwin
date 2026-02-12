@@ -15,7 +15,7 @@ Currently building real-world systems using Go, TypeScript, Postgres, and cloud 
 ---
 ## 🛠 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
