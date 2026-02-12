@@ -74,23 +74,3 @@
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
-<table width="100%">
-<tr>
-
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=S-Axhwin&theme=dark&show_icons=true"/>
-</td>
-
-<td align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=S-Axhwin&theme=dark"/>
-</td>
-
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Axhwin&layout=compact&theme=dark"/>
-</td>
-
-</tr>
-</table>
