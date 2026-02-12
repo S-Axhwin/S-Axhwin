@@ -3,8 +3,6 @@
 
 <td width="70%" valign="top">
 
-## 🛠 Tech Stack
-
 <table width="100%">
 <tr>
 
