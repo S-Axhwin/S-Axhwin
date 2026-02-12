@@ -13,31 +13,54 @@ Currently building real-world systems using Go, TypeScript, Postgres, and cloud 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:spashwin.s.p3@gmail.com)
 
 ---
-
 ## 🛠 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Languages
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
+</td>
+<td valign="top" width="50%">
+
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 ![Alpine](https://img.shields.io/badge/Alpine.js-white?style=flat&logo=alpinedotjs&logoColor=8BC0D0)
 
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
 ### Backend & DB
+
 ![Express](https://img.shields.io/badge/Express-404d59?style=flat&logo=express)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
 
+</td>
+<td valign="top">
+
 ### DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=flat&logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render)
+
+</td>
+</tr>
+</table>
 
 ---
 
