@@ -13,11 +13,15 @@ Currently building real-world systems using Go, TypeScript, Postgres, and cloud 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:spashwin.s.p3@gmail.com)
 
 ---
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ## 🛠 Tech Stack
 
-<table width="100%">
+<table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 ### Languages
 
@@ -27,7 +31,7 @@ Currently building real-world systems using Go, TypeScript, Postgres, and cloud 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 ### Frontend
 
@@ -62,6 +66,21 @@ Currently building real-world systems using Go, TypeScript, Postgres, and cloud 
 </tr>
 </table>
 
+</td>
+
+<td width="35%" valign="top">
+
+## 🚀 What I’m Working On
+
+- SaaS platforms  
+- Backend ingestion pipelines  
+- Supabase + Postgres analytics  
+- CLI tooling  
+- FMCG data systems  
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
